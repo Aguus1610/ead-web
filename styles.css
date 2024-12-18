@@ -494,8 +494,8 @@ button:hover {
 footer {
     background: linear-gradient(
         to bottom,
-        var(--gris-oscuro) 0%,
-        var(--hidro-azul) 100%
+        var(--gris-oscuro) 50%,
+        var(--hidro-azul) 50%
     );
     color: var(--texto-claro);
     padding: 3rem 1rem;
